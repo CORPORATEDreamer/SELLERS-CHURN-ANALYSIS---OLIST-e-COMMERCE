@@ -11,3 +11,8 @@ Olist is one of the largest e-commerce platforms in Brazil, connecting thousands
 Recent internal findings highlight the importance of seller retention to this objective. Sellers who remain active over longer periods generate approximately three times more revenue—around USD 10K—compared to less active sellers, who contribute roughly USD 3K within the 2016–2018 timeframe. This significant gap underscores the financial impact of retention and motivates Olist to invest in predictive models capable of identifying potential churners early.
 
 Such a model enables the company to deploy targeted, efficient interventions—ultimately saving both money and operational resources. Acquiring new sellers typically costs between USD 50 and 130, whereas maintaining an existing seller costs only about USD 10 to 30. Reducing churn therefore presents a substantial opportunity to strengthen Olist’s bottom line while maintaining a healthy, productive seller ecosystem.
+
+# GOALS
+1. Understand the key differences between potential churners and consistently active sellers.
+2. Identify the areas where sellers are most vulnerable to churning and analyze the factors that contribute to it.
+3. Develop a predictive classification model to detect potential churners, enabling business initiatives that are informed and supported by data-driven evidence.
