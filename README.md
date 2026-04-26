@@ -42,7 +42,18 @@ This project aims to identify high-risk sellers early and enable targeted interv
   - Selling frequency  
   - Revenue trends  
   - Delivery performance  
-- Reduced false negatives significantly, improving early detection of at-risk sellers  
+- Reduced false negatives significantly, improving early detection of at-risk sellers
+
+## 📊 Key Insights
+<img width="753" height="420" alt="image" src="https://github.com/user-attachments/assets/095a0bdb-3344-437f-b6b6-cbbc35e64e72" />
+
+<img width="751" height="433" alt="image" src="https://github.com/user-attachments/assets/d314d993-fb7a-49c5-9b96-5e574374b6a4" />
+
+---
+
+## 📄 Project Report
+Full analysis and business presentation:
+👉 [View PDF Report](https://acesse.one/e-commerce-churner-full-report)
 
 ---
 
