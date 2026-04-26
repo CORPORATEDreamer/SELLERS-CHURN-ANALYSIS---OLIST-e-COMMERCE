@@ -1,18 +1,65 @@
-# SELLERS-CHURN-ANALYSIS---OLIST-e-COMMERCE
-JCDSAH-0204 Final Project on Seller's Churn Analysis based off of Olist e-Commerce dataset.
+# Seller Churn Prediction (E-commerce)
 
-# AUTHOR
-- Margaretha Kwok
-- Naufal
+Predicting high-risk sellers using machine learning to enable targeted retention strategies and reduce revenue loss.
 
-# General Information
-Olist is one of the largest e-commerce platforms in Brazil, connecting thousands of sellers with buyers nationwide and enabling a wide range of products to reach customers—from electronics and furniture to cosmetics and everyday essentials. As the platform continues to scale, the company’s strategic priority has shifted toward strengthening and solidifying its core business valuation.
+---
 
-Recent internal findings highlight the importance of seller retention to this objective. Sellers who remain active over longer periods generate approximately three times more revenue—around USD 10K—compared to less active sellers, who contribute roughly USD 3K within the 2016–2018 timeframe. This significant gap underscores the financial impact of retention and motivates Olist to invest in predictive models capable of identifying potential churners early.
+## 📊 Business Problem
+Seller churn significantly impacts revenue in e-commerce platforms. Active sellers generate up to 3x more revenue than inactive ones, making early detection of churn critical.
 
-Such a model enables the company to deploy targeted, efficient interventions—ultimately saving both money and operational resources. Acquiring new sellers typically costs between USD 50 and 130, whereas maintaining an existing seller costs only about USD 10 to 30. Reducing churn therefore presents a substantial opportunity to strengthen Olist’s bottom line while maintaining a healthy, productive seller ecosystem.
+This project aims to identify high-risk sellers and support data-driven retention strategies.
 
-# GOALS
-1. Understand the key differences between potential churners and consistently active sellers.
-2. Identify the areas where sellers are most vulnerable to churning and analyze the factors that contribute to it.
-3. Develop a predictive classification model to detect potential churners, enabling business initiatives that are informed and supported by data-driven evidence.
+---
+
+## 🎯 Objectives
+- Identify key differences between churned and active sellers  
+- Analyze drivers of seller churn  
+- Build a predictive model to detect high-risk sellers  
+
+---
+
+## 🛠️ Approach
+- Performed **Exploratory Data Analysis (EDA)** and feature engineering  
+- Trained and evaluated multiple classification models:
+  - Decision Tree
+  - SVM
+  - KNN
+  - XGBoost  
+- Optimized model using **F2-score** to prioritize recall of churners  
+- Applied **SHAP (Explainable AI)** to identify key churn drivers  
+
+---
+
+## 📈 Results
+- Achieved **~8x improvement in churn detection efficiency** compared to no-model baseline  
+- Identified key drivers:
+  - Selling frequency  
+  - Revenue trends  
+  - Delivery performance  
+- Reduced false negatives significantly, improving early detection of at-risk sellers  
+
+---
+
+## 💡 Business Impact
+- Enables **targeted retention strategies**  
+- Reduces wasted effort on low-risk sellers  
+- Supports more efficient resource allocation  
+
+---
+
+## 📊 Dashboard & Monitoring
+Developed a monitoring dashboard to track seller behavior and provide early warning signals for churn risk.
+
+---
+
+## 🧰 Tech Stack
+- Python (Pandas, NumPy, Scikit-learn)  
+- Decision Tree, XGBoost, SVM, KNN
+- SHAP  
+- Matplotlib / Seaborn  
+
+---
+
+## 👥 Authors
+- Naufal  
+- Margaretha Kwok  
