@@ -53,7 +53,7 @@ This project aims to identify high-risk sellers early and enable targeted interv
 
 ## 📄 Project Report
 Full analysis and business presentation:
-👉 [View PDF Report](https://acesse.one/e-commerce-churner-full-report)
+👉 [View PDF Report](https://drive.google.com/file/d/1k-l0A10jSSPuB5RV7d9-oW3DYZfGtfmn/view?usp=drive_link)
 
 ---
 
