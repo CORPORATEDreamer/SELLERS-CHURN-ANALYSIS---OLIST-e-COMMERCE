@@ -5,9 +5,15 @@ Predicting high-risk sellers using machine learning to enable targeted retention
 ---
 
 ## 📊 Business Problem
-Seller churn significantly impacts revenue in e-commerce platforms. Active sellers generate up to 3x more revenue than inactive ones, making early detection of churn critical.
+Seller churn impacts platform performance beyond just seller count—it is strongly linked to weaker operational performance and reduced revenue contribution.
 
-This project aims to identify high-risk sellers and support data-driven retention strategies.
+Churned sellers exhibit:
+- **Lower fulfillment performance**, including longer dispatch times and significantly higher late delivery rates  
+- **Substantially lower revenue and order volume**, contributing only a small share of total platform performance  
+
+While churned sellers may have higher average order value, they transact less frequently, limiting their overall impact. These patterns suggest that early operational inefficiencies—particularly in fulfillment—are key leading indicators of churn.
+
+This project aims to identify high-risk sellers early and enable targeted interventions to improve retention, operational performance, and overall platform revenue.
 
 ---
 
